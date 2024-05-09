@@ -1,0 +1,10 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+table{
+  border:black dashed 2px;
+  position:relative;
+  left:10%;
+}
